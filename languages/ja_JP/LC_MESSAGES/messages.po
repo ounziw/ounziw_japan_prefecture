@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Japan Prefecture 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-17 10:05+0900\n"
+"PO-Revision-Date: 2017-08-21 13:57+0900\n"
+"Last-Translator: Fumito MIZUNO <mizuno@rescuework.nagoya>\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../blocks/topic_list/templates/japan_prefecture/view.php:226
+msgid "No topics."
+msgstr "トピックがありません。"
+
+#: ../../../controller.php:14
+msgid "Adds a topic for Japan Prefectures."
+msgstr "日本の都道府県をトピックに追加します。"
+
+#: ../../../controller.php:17
+msgid "Rescuework's Japan Prefecture"
+msgstr "[レスキューワーク] 日本の都道府県"
+
+msgctxt "TreeName"
+msgid "Prefecture"
+msgstr "都道府県"
+
+msgctxt "TreeNodeCategoryName"
+msgid "Hokkaido Tohoku"
+msgstr "北海道東北"
+
+msgctxt "TreeNodeCategoryName"
+msgid "Kanto"
+msgstr "関東"
+
+msgctxt "TreeNodeCategoryName"
+msgid "Chubu"
+msgstr "中部"
+
+msgctxt "TreeNodeCategoryName"
+msgid "Kinki"
+msgstr "近畿"
+
+msgctxt "TreeNodeCategoryName"
+msgid "Chugoku"
+msgstr "中国"
+
+msgctxt "TreeNodeCategoryName"
+msgid "Shikoku"
+msgstr "四国"
+
+msgctxt "TreeNodeCategoryName"
+msgid "Kyushu Okinawa"
+msgstr "九州沖縄"
+
+msgctxt "TopicName"
+msgid "Hokkaido"
+msgstr "北海道"
+
+msgctxt "TopicName"
+msgid "Aomori"
+msgstr "青森"
+
+msgctxt "TopicName"
+msgid "Iwate"
+msgstr "岩手"
+
+msgctxt "TopicName"
+msgid "Miyagi"
+msgstr "宮城"
+
+msgctxt "TopicName"
+msgid "Akita"
+msgstr "秋田"
+
+msgctxt "TopicName"
+msgid "Yamagata"
+msgstr "山形"
+
+msgctxt "TopicName"
+msgid "Fukushima"
+msgstr "福島"
+
+msgctxt "TopicName"
+msgid "Ibaraki"
+msgstr "茨城"
+
+msgctxt "TopicName"
+msgid "Tochigi"
+msgstr "栃木"
+
+msgctxt "TopicName"
+msgid "Gunma"
+msgstr "群馬"
+
+msgctxt "TopicName"
+msgid "Saitama"
+msgstr "埼玉"
+
+msgctxt "TopicName"
+msgid "Chiba"
+msgstr "千葉"
+
+msgctxt "TopicName"
+msgid "Tokyo"
+msgstr "東京"
+
+msgctxt "TopicName"
+msgid "Kanagawa"
+msgstr "神奈川"
+
+msgctxt "TopicName"
+msgid "Niigata"
+msgstr "新潟"
+
+msgctxt "TopicName"
+msgid "Toyama"
+msgstr "富山"
+
+msgctxt "TopicName"
+msgid "Ishikawa"
+msgstr "石川"
+
+msgctxt "TopicName"
+msgid "Fukui"
+msgstr "福井"
+
+msgctxt "TopicName"
+msgid "Yamanashi"
+msgstr "山梨"
+
+msgctxt "TopicName"
+msgid "Nagano"
+msgstr "長野"
+
+msgctxt "TopicName"
+msgid "Gifu"
+msgstr "岐阜"
+
+msgctxt "TopicName"
+msgid "Shizuoka"
+msgstr "静岡"
+
+msgctxt "TopicName"
+msgid "Aichi"
+msgstr "愛知"
+
+msgctxt "TopicName"
+msgid "Mie"
+msgstr "三重"
+
+msgctxt "TopicName"
+msgid "Shiga"
+msgstr "滋賀"
+
+msgctxt "TopicName"
+msgid "Kyoto"
+msgstr "京都"
+
+msgctxt "TopicName"
+msgid "Osaka"
+msgstr "大阪"
+
+msgctxt "TopicName"
+msgid "Hyogo"
+msgstr "兵庫"
+
+msgctxt "TopicName"
+msgid "Nara"
+msgstr "奈良"
+
+msgctxt "TopicName"
+msgid "Wakayama"
+msgstr "和歌山"
+
+msgctxt "TopicName"
+msgid "Tottori"
+msgstr "鳥取"
+
+msgctxt "TopicName"
+msgid "Shimane"
+msgstr "島根"
+
+msgctxt "TopicName"
+msgid "Okayama"
+msgstr "岡山"
+
+msgctxt "TopicName"
+msgid "Hiroshima"
+msgstr "広島"
+
+msgctxt "TopicName"
+msgid "Yamaguchi"
+msgstr "山口"
+
+msgctxt "TopicName"
+msgid "Tokushima"
+msgstr "徳島"
+
+msgctxt "TopicName"
+msgid "Kagawa"
+msgstr "香川"
+
+msgctxt "TopicName"
+msgid "Ehime"
+msgstr "愛媛"
+
+msgctxt "TopicName"
+msgid "Kochi"
+msgstr "高知"
+
+msgctxt "TopicName"
+msgid "Fukuoka"
+msgstr "福岡"
+
+msgctxt "TopicName"
+msgid "Saga"
+msgstr "佐賀"
+
+msgctxt "TopicName"
+msgid "Nagasaki"
+msgstr "長崎"
+
+msgctxt "TopicName"
+msgid "Kumamoto"
+msgstr "熊本"
+
+msgctxt "TopicName"
+msgid "Oita"
+msgstr "大分"
+
+msgctxt "TopicName"
+msgid "Miyazaki"
+msgstr "宮崎"
+
+msgctxt "TopicName"
+msgid "Kagoshima"
+msgstr "鹿児島"
+
+msgctxt "TopicName"
+msgid "Okinawa"
+msgstr "沖縄"
+
+msgid "Hokkaido"
+msgstr "北海道"
+
+msgid "Aomori"
+msgstr "青森"
+
+msgid "Iwate"
+msgstr "岩手"
+
+msgid "Miyagi"
+msgstr "宮城"
+
+msgid "Akita"
+msgstr "秋田"
+
+msgid "Yamagata"
+msgstr "山形"
+
+msgid "Fukushima"
+msgstr "福島"
+
+msgid "Ibaraki"
+msgstr "茨城"
+
+msgid "Tochigi"
+msgstr "栃木"
+
+msgid "Gunma"
+msgstr "群馬"
+
+msgid "Saitama"
+msgstr "埼玉"
+
+msgid "Chiba"
+msgstr "千葉"
+
+msgid "Tokyo"
+msgstr "東京"
+
+msgid "Kanagawa"
+msgstr "神奈川"
+
+msgid "Niigata"
+msgstr "新潟"
+
+msgid "Toyama"
+msgstr "富山"
+
+msgid "Ishikawa"
+msgstr "石川"
+
+msgid "Fukui"
+msgstr "福井"
+
+msgid "Yamanashi"
+msgstr "山梨"
+
+msgid "Nagano"
+msgstr "長野"
+
+msgid "Gifu"
+msgstr "岐阜"
+
+msgid "Shizuoka"
+msgstr "静岡"
+
+msgid "Aichi"
+msgstr "愛知"
+
+msgid "Mie"
+msgstr "三重"
+
+msgid "Shiga"
+msgstr "滋賀"
+
+msgid "Kyoto"
+msgstr "京都"
+
+msgid "Osaka"
+msgstr "大阪"
+
+msgid "Hyogo"
+msgstr "兵庫"
+
+msgid "Nara"
+msgstr "奈良"
+
+msgid "Wakayama"
+msgstr "和歌山"
+
+msgid "Tottori"
+msgstr "鳥取"
+
+msgid "Shimane"
+msgstr "島根"
+
+msgid "Okayama"
+msgstr "岡山"
+
+msgid "Hiroshima"
+msgstr "広島"
+
+msgid "Yamaguchi"
+msgstr "山口"
+
+msgid "Tokushima"
+msgstr "徳島"
+
+msgid "Kagawa"
+msgstr "香川"
+
+msgid "Ehime"
+msgstr "愛媛"
+
+msgid "Kochi"
+msgstr "高知"
+
+msgid "Fukuoka"
+msgstr "福岡"
+
+msgid "Saga"
+msgstr "佐賀"
+
+msgid "Nagasaki"
+msgstr "長崎"
+
+msgid "Kumamoto"
+msgstr "熊本"
+
+msgid "Oita"
+msgstr "大分"
+
+msgid "Miyazaki"
+msgstr "宮崎"
+
+msgid "Kagoshima"
+msgstr "鹿児島"
+
+msgid "Okinawa"
+msgstr "沖縄"

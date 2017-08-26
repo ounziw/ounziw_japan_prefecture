@@ -1,0 +1,47 @@
+table#map1{
+    margin-left: auto;
+    margin-right: auto
+}
+
+#map1 a{
+    /* font-size: calc(8px + 0.5vw); */
+    font-size: 80%;
+    color: #222;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#map1 td{
+    padding: 8px 0;
+    border: solid 2px #f0f9ff;
+    text-align: center;
+    width: 5.5%;
+    word-break: break-all;
+}
+
+#map1 td.c14{
+    padding: 0;
+}
+
+#map1 td.frame{
+    padding: 0;
+    width: 20px;
+    height: 10px;
+}
+
+#map1 td.land{
+    background-color: #eef2bf;
+}
+
+#map1 td.sea{
+    background-color: #f0f9ff;
+}
+
+#map1 td.selected{
+    background-color: #fcc;
+    -webkit-transition: background .5s ease-out;
+    -moz-transition: background .5s ease-out;
+    -o-transition: background .5s ease-out;
+}
