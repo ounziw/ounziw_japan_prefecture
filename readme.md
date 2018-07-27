@@ -16,7 +16,7 @@ concrete5で作成したホームページに、日本の都道府県をトピ�
 
 concrete5 の多言語機能に対応している。言語ファイルを用意することで、様々な言語に対応可能。（標準では英語と日本語に対応。）
 
-サンプルサイトは、[全国の鉄道](https://www.rescuework.jp/railway/)を参照
+サンプルサイトは、[QUICKNEM導入事例](https://quicknem.com/cases)を参照
 
 
 ## 導入方法
